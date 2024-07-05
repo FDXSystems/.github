@@ -6,9 +6,10 @@ At FDX SYSTEMS LLC, we are at the forefront of RFID technology innovation. Our r
 
 ### Our Vision
 
-While traditional RFID systems focus primarily on logistics, our vision extends far beyond. We recognize the untapped potential of RFID sensor tags, such as those developed by AXZON, to transform various sectors through advanced sensing capabilities.
+At FDX SYSTEMS LLC, our vision is to make the process of onboarding RFID sensing seamless through our GATEWAY RFID and our API, designed based on our extensive experience. We aim to revolutionize how industries integrate and utilize RFID sensor technology, providing intuitive and efficient solutions that enhance operational efficiency and drive innovation.
 
-### Why GATEWAY?
+
+### Why AVANT Gateway?
 
 The GATEWAY concept is more than just a philosophy—it's a paradigm shift. It represents our commitment to discovering and deploying new applications for RFID sensor tags, moving beyond conventional uses and into diverse industries where real-time sensing can make a critical impact.
 
